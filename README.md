@@ -4,4 +4,5 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.<br>
 
-Add new line from GitHub code editor.
+Add new line from GitHub code editor. <br>
+Add new line from local code editor. <br>
