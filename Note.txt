@@ -32,5 +32,10 @@ git log -> to view the commit history
 
 git branch <branch-name> -> to create a new branch from the current branch
 git branch -> to list all the branches
+git branch -d <branch-name> -> to delete the specified branch
+
 git checkout <branch-name> -> to switch to the specified branch
 git checkout -b <branch-name> -> to create a new branch and switch to it
+
+git merge <branch-name> -> to merge the specified branch into the current branch
+git merge --abort -> to abort the merge process
